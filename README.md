@@ -17,8 +17,3 @@ npm run dev
 
 Open `http://localhost:3000` in your browser.
 
-## Deploying to GitHub & GitHub Pages
-
-1. Push this repository to GitHub (`main` branch).
-2. In your GitHub repository, go to **Settings → Pages → Build and deployment** and set **Source** to **GitHub Actions**.
-3. The included workflow ([`.github/workflows/deploy.yml`](.github/workflows/deploy.yml)) automatically builds the static export and deploys it to GitHub Pages.
